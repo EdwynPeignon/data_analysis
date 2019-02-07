@@ -1,4 +1,4 @@
-# streamroot
+# Data Analyze
 
 Visualisation on a streamroot dataset.
 
